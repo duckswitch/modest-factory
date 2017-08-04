@@ -5,7 +5,7 @@ This module contains tests for the class Factory
 
 from mock import Mock
 from pytest import fixture
-from simplefactory.factory import Factory, Singleton, Dependency
+from modestfactory.factory import Factory, Singleton, Dependency
 
 
 class StorageIO(object):

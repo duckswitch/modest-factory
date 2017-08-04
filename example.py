@@ -3,9 +3,9 @@
 Example
 """
 
-from simplefactory import Factory
-from simplefactory import Singleton
-from simplefactory import Dependency
+from modestfactory import Factory
+from modestfactory import Singleton
+from modestfactory import Dependency
 
 # Fake DB access class.
 class UserDB(object):
