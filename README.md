@@ -7,10 +7,9 @@ Simple Factory lib to create classes with a dependency injection like pattern.
 
 ## Install the lib.
 
-Install it from the repo :
-
+Install it with pip.
 ```bash
-pip install https://github.com/duckswitch/modest-factory.git@master
+pip install modestfactory
 ```
 
 ## Create a configuration & the factory.
